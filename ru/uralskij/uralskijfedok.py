@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-from locsupport.locdict.uralskij.cheljabinskaja import cheljabinskaja
-from locsupport.locdict.uralskij.sverdlovskaja import sverdlovskaja
+from cheljabinskaja import cheljabinskaja
+from sverdlovskaja import sverdlovskaja
 #uralskijfedok = {('Uralskij fed. ok.', 'Уральский фед. ок.', 'uralskij-fed-ok',): {
 uralskijfedok = {
     ('CHeljabinskaja obl.', 'Челябинская обл.', 'cheljabinskaja-obl',): cheljabinskaja,

@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-from locsupport.locdict.sibirskij.altajskij import altajskij
-from locsupport.locdict.sibirskij.kemerovskaja import kemerovskaja
-from locsupport.locdict.sibirskij.krasnojarskij import krasnojarskij
-from locsupport.locdict.sibirskij.tomskaja import tomskaja
-from locsupport.locdict.sibirskij.irkutskaja import irkutskaja
+from altajskij import altajskij
+from kemerovskaja import kemerovskaja
+from krasnojarskij import krasnojarskij
+from tomskaja import tomskaja
+from irkutskaja import irkutskaja
 #sibirskijfedok = {('Sibirskij fed. ok.', 'Сибирский фед. ок.', 'sibirskij-fed-ok',): {
 sibirskijfedok = {
     ('Altaj, Resp.', 'Алтай, Респ.', 'altaj-resp',): {

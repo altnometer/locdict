@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
-from locsupport.locdict.tsentralnyj.moskva import moskva
-from locsupport.locdict.tsentralnyj.moskovskaja import moskovskaja
-from locsupport.locdict.tsentralnyj.vladimirskaja import vladimirskaja
-from locsupport.locdict.tsentralnyj.tverskaja import tverskaja
-from locsupport.locdict.tsentralnyj.kaluzhskaja import kaluzhskaja
-from locsupport.locdict.tsentralnyj.voronezhskaja import voronezhskaja
-from locsupport.locdict.tsentralnyj.tulskaja import tulskaja
-from locsupport.locdict.tsentralnyj.brjanskaja import brjanskaja
+from moskva import moskva
+from moskovskaja import moskovskaja
+from vladimirskaja import vladimirskaja
+from tverskaja import tverskaja
+from kaluzhskaja import kaluzhskaja
+from voronezhskaja import voronezhskaja
+from tulskaja import tulskaja
+from brjanskaja import brjanskaja
 #tsentralnyjfedok = {('Tsentralnyj fed. ok.', 'Центральный фед. ок.', 'tsentralnyj-fed-ok',): {
 tsentralnyjfedok = {
     ('Moskva', 'Москва', 'moskva',): moskva,

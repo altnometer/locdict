@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-from locsupport.locdict.privolzhskij.tatarstan import tatarstan
-from locsupport.locdict.privolzhskij.kirovskaja import kirovskaja
-from locsupport.locdict.privolzhskij.nizhegorodskaja import nizhegorodskaja
-from locsupport.locdict.privolzhskij.permskij import permskij
-from locsupport.locdict.privolzhskij.samarskaja import samarskaja
-from locsupport.locdict.privolzhskij.bashkortostan import bashkortostan
+from tatarstan import tatarstan
+from kirovskaja import kirovskaja
+from nizhegorodskaja import nizhegorodskaja
+from permskij import permskij
+from samarskaja import samarskaja
+from bashkortostan import bashkortostan
 #privolzhskijfedok = {('Privolzhskij fed. ok.', 'Приволжский фед. ок.', 'privolzhskij-fed-ok',): {
 privolzhskijfedok = {
     ('Bashkortostan, Resp.', 'Башкортостан, Респ.', 'bashkortostan-resp',): bashkortostan,

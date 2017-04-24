@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-from locsupport.locdict.severozapadnyj.sanktpeterburg import sanktpeterburg
-from locsupport.locdict.severozapadnyj.leningradskaja import leningradskaja
+from sanktpeterburg import sanktpeterburg
+from leningradskaja import leningradskaja
 #severozapadnyjfedok = {('Severo-Zapadnyj fed. ok.', 'Северо-Западный фед. ок.', 'severo-zapadnyj-fed-ok',): {
 severozapadnyjfedok = {
     ('Sankt-Peterburg', 'Санкт-Петербург', 'sankt-peterburg',): sanktpeterburg,
